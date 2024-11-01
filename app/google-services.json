@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "648333787403",
+    "project_id": "fir-lite-b3196",
+    "firebase_url": "https://fir-lite-b3196-default-rtdb.europe-west1.firebasedatabase.app",
+    "storage_bucket": "fir-lite-b3196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648333787403:android:95557d0ee52ad3af4f220e",
+        "android_client_info": {
+          "package_name": "com.example.firebasecourselite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqyH4Oe0ZMlc_OJEBzzzT70Jf32wnchbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
